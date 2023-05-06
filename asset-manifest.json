@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prof-pg/static/css/main.b50c83bf.css",
+    "main.js": "/Prof-pg/static/js/main.da9ae700.js",
+    "index.html": "/Prof-pg/index.html",
+    "main.b50c83bf.css.map": "/Prof-pg/static/css/main.b50c83bf.css.map",
+    "main.da9ae700.js.map": "/Prof-pg/static/js/main.da9ae700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b50c83bf.css",
+    "static/js/main.da9ae700.js"
+  ]
+}
